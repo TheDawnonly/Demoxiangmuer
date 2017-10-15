@@ -12,6 +12,7 @@ import okhttp3.Response;
  * Created by muhanxi on 17/10/14.
  */
 
+
 public class LoginActivityModel {
 
     public void login(String username, String password,final LoginActivityModelListener listener) {
